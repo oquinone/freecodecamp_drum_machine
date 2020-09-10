@@ -2,29 +2,25 @@
   margin: auto;
   display: flex;
   flex-flow: row nowrap;
-  justify-content: center;
-  background-color: steelblue;
+  justify-content: space-around;
+  background-color: tan;
   width: 900px;
-  height: 450px;
-  margin-top: 50px;
+  height: 370px;
+  margin-top: 100px;
+  border-radius: 150px;
 }
 
-#drum-machine  div{
-  width: 400px;
-  height: 400px;
-  /* background-color: white; */
+#drum-machine div{
+  width: 300px;
+  height: 300px;
   margin: auto;
-}
-
-#display{
-  text-align: center;
+  /* background-color: black; */
 }
 
 button{
-  width: 110px;
-  height: 110px;
-  margin: 10px;
-  /* box-shadow: -1px 3px 5.5px 3.5px rgba(176,169,176,1); */
+  width: 90px;
+  height: 90px;
+  margin: 5px;
   border-radius: 12px;
   border: 1px solid black;
   font-size: 1em;
@@ -37,4 +33,13 @@ button:hover{
 #sound-desc{
   font-size: 2em;
 
+}
+
+#display{
+  text-align: center;
+}
+
+#display h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4em;
 }
