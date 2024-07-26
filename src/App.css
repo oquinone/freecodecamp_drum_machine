@@ -1,51 +1,62 @@
-#drum-machine{
-  margin: auto;
+#container {
+  background-color: #8d8d8d;
+  height: 100vh;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#drum-machine {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
-  background-color: tan;
-  border: 2px solid rgb(148,31,31);
+  background-color: #b3b3b3;
+  border: 5px solid orange;
   width: 800px;
   height: 370px;
-  margin-top: 100px;
-  border-radius: 100px;
 }
 
-#drum-machine div{
+#drum-machine div {
   width: 300px;
   height: 300px;
   margin: auto;
   /* background-color: black; */
 }
 
-button{
-  background-color: rebeccapurple;
+button {
+  background-color: rgb(116, 116, 116);
   width: 90px;
   height: 90px;
   margin: 5px;
   border-radius: 12px;
-  border: 1px solid black;
+  border: none;
   font-size: 1em;
   color: white;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1.2em;
-  box-shadow: 8px 6px 5px 0px rgba(84,84,84,1);
+  box-shadow: 8px 6px 5px 0px rgba(84, 84, 84, 1);
 }
 
-button:hover{
-  background-color: darkseagreen;
+button:hover {
+  background-color: rgb(83, 83, 83);
+  cursor: pointer;
 }
 
-#sound-desc{
+#sound-desc {
   font-size: 2em;
-
 }
 
-#display{
-  text-align: center;
+#display {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
-#display h1{
-  font-family: 'Bebas Neue', cursive;
+#display h1 {
+  font-family: "Bebas Neue", cursive;
   font-size: 4em;
+  text-align: center;
 }
