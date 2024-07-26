@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/freecodecamp_drum_machine/static/css/main.443bbdbe.chunk.css",
-    "main.js": "/freecodecamp_drum_machine/static/js/main.4a7563fd.chunk.js",
-    "main.js.map": "/freecodecamp_drum_machine/static/js/main.4a7563fd.chunk.js.map",
-    "runtime-main.js": "/freecodecamp_drum_machine/static/js/runtime-main.6b3a298c.js",
-    "runtime-main.js.map": "/freecodecamp_drum_machine/static/js/runtime-main.6b3a298c.js.map",
-    "static/js/2.4fd3ffc1.chunk.js": "/freecodecamp_drum_machine/static/js/2.4fd3ffc1.chunk.js",
-    "static/js/2.4fd3ffc1.chunk.js.map": "/freecodecamp_drum_machine/static/js/2.4fd3ffc1.chunk.js.map",
+    "main.css": "/freecodecamp_drum_machine/static/css/main.a26ce40c.css",
+    "main.js": "/freecodecamp_drum_machine/static/js/main.5b72df7d.js",
+    "static/media/Ride-Cymbal-Wash-Crescendo.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Wash-Crescendo.95b18929a33c7861feb0.mp3",
+    "static/media/Crash-Cymbal-Hit-B.mp3": "/freecodecamp_drum_machine/static/media/Crash-Cymbal-Hit-B.0504a0a6952d3a582dec.mp3",
+    "static/media/Hi-Hat-Open-Hit-C3.mp3": "/freecodecamp_drum_machine/static/media/Hi-Hat-Open-Hit-C3.d34829f6f7fdd557c1c1.mp3",
+    "static/media/Small-Tom-Drum-Hit-Level-4A.mp3": "/freecodecamp_drum_machine/static/media/Small-Tom-Drum-Hit-Level-4A.57d2ae859d56c816345f.mp3",
+    "static/media/Ride-Cymbal-Metal-Slide-Scrape-A.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Metal-Slide-Scrape-A.defa545423d824469fa3.mp3",
+    "static/media/Bass-Drum-Hit-Level-6c.mp3": "/freecodecamp_drum_machine/static/media/Bass-Drum-Hit-Level-6c.87b8451c81d225102b8c.mp3",
+    "static/media/Ride-Cymbal-Bell-Hit-D.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Bell-Hit-D.1f0bf9dac63a532a6ab9.mp3",
+    "static/media/Snare-Drum-Hit-Level-6b.mp3": "/freecodecamp_drum_machine/static/media/Snare-Drum-Hit-Level-6b.d0e5b1a433dd70396204.mp3",
+    "static/media/Drum-Sticks-Hit-C.mp3": "/freecodecamp_drum_machine/static/media/Drum-Sticks-Hit-C.c27c7adb213de6da407a.mp3",
     "index.html": "/freecodecamp_drum_machine/index.html",
-    "precache-manifest.6351713a510e265945a716e5289bc774.js": "/freecodecamp_drum_machine/precache-manifest.6351713a510e265945a716e5289bc774.js",
-    "service-worker.js": "/freecodecamp_drum_machine/service-worker.js",
-    "static/css/main.443bbdbe.chunk.css.map": "/freecodecamp_drum_machine/static/css/main.443bbdbe.chunk.css.map",
-    "static/js/2.4fd3ffc1.chunk.js.LICENSE.txt": "/freecodecamp_drum_machine/static/js/2.4fd3ffc1.chunk.js.LICENSE.txt",
-    "static/media/Bass-Drum-Hit-Level-6c.mp3": "/freecodecamp_drum_machine/static/media/Bass-Drum-Hit-Level-6c.a53dc6e6.mp3",
-    "static/media/Crash-Cymbal-Hit-B.mp3": "/freecodecamp_drum_machine/static/media/Crash-Cymbal-Hit-B.0730cbe3.mp3",
-    "static/media/Drum-Sticks-Hit-C.mp3": "/freecodecamp_drum_machine/static/media/Drum-Sticks-Hit-C.c7857e8c.mp3",
-    "static/media/Hi-Hat-Open-Hit-C3.mp3": "/freecodecamp_drum_machine/static/media/Hi-Hat-Open-Hit-C3.14adc01d.mp3",
-    "static/media/Ride-Cymbal-Bell-Hit-D.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Bell-Hit-D.3a70ad6c.mp3",
-    "static/media/Ride-Cymbal-Metal-Slide-Scrape-A.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Metal-Slide-Scrape-A.fe7b8c73.mp3",
-    "static/media/Ride-Cymbal-Wash-Crescendo.mp3": "/freecodecamp_drum_machine/static/media/Ride-Cymbal-Wash-Crescendo.7f976709.mp3",
-    "static/media/Small-Tom-Drum-Hit-Level-4A.mp3": "/freecodecamp_drum_machine/static/media/Small-Tom-Drum-Hit-Level-4A.d8674346.mp3",
-    "static/media/Snare-Drum-Hit-Level-6b.mp3": "/freecodecamp_drum_machine/static/media/Snare-Drum-Hit-Level-6b.6257fa7d.mp3"
+    "main.a26ce40c.css.map": "/freecodecamp_drum_machine/static/css/main.a26ce40c.css.map",
+    "main.5b72df7d.js.map": "/freecodecamp_drum_machine/static/js/main.5b72df7d.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b3a298c.js",
-    "static/js/2.4fd3ffc1.chunk.js",
-    "static/css/main.443bbdbe.chunk.css",
-    "static/js/main.4a7563fd.chunk.js"
+    "static/css/main.a26ce40c.css",
+    "static/js/main.5b72df7d.js"
   ]
 }
